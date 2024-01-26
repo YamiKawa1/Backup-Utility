@@ -10,7 +10,7 @@ How it works?
 
 
 Prepare the Environment:
-Ensure you have access to a Linux server or a Linux machine where you want to perform backups. s
+Ensure you have access to a Linux server or a Linux machine where you want to perform backups.
 Create the Script:
 Use a text editor such as nano or vi to create the script. You can copy and paste the script code I mentioned earlier. For example:
 bash
